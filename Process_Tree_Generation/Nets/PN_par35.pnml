@@ -1,0 +1,371 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pnml>
+  <net id="net1" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <page id="n0">
+      <place id="p_5">
+        <name>
+          <text>p_5</text>
+        </name>
+      </place>
+      <place id="p_6">
+        <name>
+          <text>p_6</text>
+        </name>
+      </place>
+      <place id="p_24">
+        <name>
+          <text>p_24</text>
+        </name>
+      </place>
+      <place id="p_33">
+        <name>
+          <text>p_33</text>
+        </name>
+      </place>
+      <place id="p_38">
+        <name>
+          <text>p_38</text>
+        </name>
+      </place>
+      <place id="p_7">
+        <name>
+          <text>p_7</text>
+        </name>
+      </place>
+      <place id="p_10">
+        <name>
+          <text>p_10</text>
+        </name>
+      </place>
+      <place id="p_29">
+        <name>
+          <text>p_29</text>
+        </name>
+      </place>
+      <place id="p_12">
+        <name>
+          <text>p_12</text>
+        </name>
+      </place>
+      <place id="p_23">
+        <name>
+          <text>p_23</text>
+        </name>
+      </place>
+      <place id="p_35">
+        <name>
+          <text>p_35</text>
+        </name>
+      </place>
+      <place id="p_40">
+        <name>
+          <text>p_40</text>
+        </name>
+      </place>
+      <place id="sink">
+        <name>
+          <text>sink</text>
+        </name>
+      </place>
+      <place id="source">
+        <name>
+          <text>source</text>
+        </name>
+        <initialMarking>
+          <text>1</text>
+        </initialMarking>
+      </place>
+      <place id="p_19">
+        <name>
+          <text>p_19</text>
+        </name>
+      </place>
+      <place id="p_20">
+        <name>
+          <text>p_20</text>
+        </name>
+      </place>
+      <place id="p_25">
+        <name>
+          <text>p_25</text>
+        </name>
+      </place>
+      <place id="p_37">
+        <name>
+          <text>p_37</text>
+        </name>
+      </place>
+      <place id="p_13">
+        <name>
+          <text>p_13</text>
+        </name>
+      </place>
+      <place id="p_15">
+        <name>
+          <text>p_15</text>
+        </name>
+      </place>
+      <place id="p_28">
+        <name>
+          <text>p_28</text>
+        </name>
+      </place>
+      <place id="p_30">
+        <name>
+          <text>p_30</text>
+        </name>
+      </place>
+      <place id="p_31">
+        <name>
+          <text>p_31</text>
+        </name>
+      </place>
+      <place id="p_4">
+        <name>
+          <text>p_4</text>
+        </name>
+      </place>
+      <place id="p_18">
+        <name>
+          <text>p_18</text>
+        </name>
+      </place>
+      <place id="p_22">
+        <name>
+          <text>p_22</text>
+        </name>
+      </place>
+      <place id="p_34">
+        <name>
+          <text>p_34</text>
+        </name>
+      </place>
+      <place id="p_39">
+        <name>
+          <text>p_39</text>
+        </name>
+      </place>
+      <place id="p_8">
+        <name>
+          <text>p_8</text>
+        </name>
+      </place>
+      <place id="p_26">
+        <name>
+          <text>p_26</text>
+        </name>
+      </place>
+      <place id="p_27">
+        <name>
+          <text>p_27</text>
+        </name>
+      </place>
+      <transition id="tauJoin_4">
+        <name>
+          <text>tauJoin_4</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="227e2136-c072-4e21-8bc0-c93357d082ee"/>
+      </transition>
+      <transition id="997b6894-8c0e-4842-8738-4d970194807d">
+        <name>
+          <text>a</text>
+        </name>
+      </transition>
+      <transition id="tauJoin_14">
+        <name>
+          <text>tauJoin_14</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="2bbd945f-7375-4461-8122-eca07089141b"/>
+      </transition>
+      <transition id="tauSplit_3">
+        <name>
+          <text>tauSplit_3</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="ee775ae8-8f54-4194-8a8c-f74831d0c1f5"/>
+      </transition>
+      <transition id="02e55160-2261-4c58-a5df-cf17a626bd9b">
+        <name>
+          <text>j</text>
+        </name>
+      </transition>
+      <transition id="e3fc5702-61b9-4b0f-9a75-114e1b7cc489">
+        <name>
+          <text>f</text>
+        </name>
+      </transition>
+      <transition id="41d52375-ce3b-45b5-a34f-d678df15983d">
+        <name>
+          <text>l</text>
+        </name>
+      </transition>
+      <transition id="fb483615-210d-41b1-8e43-c37fe604bfc6">
+        <name>
+          <text>k</text>
+        </name>
+      </transition>
+      <transition id="d4b81155-522a-45b3-bf55-e19f05c90504">
+        <name>
+          <text>b</text>
+        </name>
+      </transition>
+      <transition id="b35401ff-01ee-42c9-a0c3-9ca4aa61ef19">
+        <name>
+          <text>p</text>
+        </name>
+      </transition>
+      <transition id="tauSplit_11">
+        <name>
+          <text>tauSplit_11</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="8cd637bd-7dac-48d8-a203-d294245b37fd"/>
+      </transition>
+      <transition id="4c0337c0-b349-4cd5-a08e-8d1b79a68a6d">
+        <name>
+          <text>h</text>
+        </name>
+      </transition>
+      <transition id="tauJoin_2">
+        <name>
+          <text>tauJoin_2</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="908c27a5-251b-43e8-94c9-b92f72fda65c"/>
+      </transition>
+      <transition id="36262535-c25e-4e39-8f41-1728664abdd5">
+        <name>
+          <text>m</text>
+        </name>
+      </transition>
+      <transition id="tauSplit_15">
+        <name>
+          <text>tauSplit_15</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="0b1f52f7-837f-49f4-80a0-c4ad56322b1e"/>
+      </transition>
+      <transition id="df3bed67-1387-41e1-8ecd-62828ce8cec5">
+        <name>
+          <text>o</text>
+        </name>
+      </transition>
+      <transition id="a7b9898a-12dc-4da9-b9cc-d696bfe7ebdd">
+        <name>
+          <text>n</text>
+        </name>
+      </transition>
+      <transition id="tauSplit_13">
+        <name>
+          <text>tauSplit_13</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="9ae1c4a1-4ca8-48a8-ae89-78b6af8b8be8"/>
+      </transition>
+      <transition id="4dfb1f26-53ea-4672-ae79-43bb48e95f4b">
+        <name>
+          <text>c</text>
+        </name>
+      </transition>
+      <transition id="a8406134-1be5-475a-9107-d2cb97345516">
+        <name>
+          <text>i</text>
+        </name>
+      </transition>
+      <transition id="252588b8-a529-4edf-ad73-5f67c91cbd69">
+        <name>
+          <text>e</text>
+        </name>
+      </transition>
+      <transition id="tauJoin_19">
+        <name>
+          <text>tauJoin_19</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="5464c9c4-337d-4668-b695-bb928b217680"/>
+      </transition>
+      <transition id="tauSplit_1">
+        <name>
+          <text>tauSplit_1</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="1b571653-3e77-4e87-8537-898a9e47e214"/>
+      </transition>
+      <transition id="11ae49ef-cea6-49e8-bf87-002a9debe3d1">
+        <name>
+          <text>g</text>
+        </name>
+      </transition>
+      <transition id="24c83690-7099-4a98-9bc4-3d07732cad42">
+        <name>
+          <text>d</text>
+        </name>
+      </transition>
+      <transition id="tauJoin_12">
+        <name>
+          <text>tauJoin_12</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="70bc9d1f-e031-4edc-bc33-008cb8f3034e"/>
+      </transition>
+      <arc id="2288627278848" source="source" target="tauSplit_1"/>
+      <arc id="2288627770368" source="4c0337c0-b349-4cd5-a08e-8d1b79a68a6d" target="p_38"/>
+      <arc id="2288627721744" source="p_6" target="tauSplit_11"/>
+      <arc id="2288627723808" source="p_5" target="tauSplit_13"/>
+      <arc id="2288627752480" source="4dfb1f26-53ea-4672-ae79-43bb48e95f4b" target="p_35"/>
+      <arc id="2288627640880" source="p_15" target="tauJoin_2"/>
+      <arc id="2288627749936" source="p_28" target="41d52375-ce3b-45b5-a34f-d678df15983d"/>
+      <arc id="2288626844720" source="tauSplit_1" target="p_18"/>
+      <arc id="2288627723328" source="24c83690-7099-4a98-9bc4-3d07732cad42" target="p_25"/>
+      <arc id="2288627752000" source="tauSplit_15" target="p_34"/>
+      <arc id="2288627639872" source="tauSplit_3" target="p_10"/>
+      <arc id="2288627281488" source="p_10" target="tauJoin_4"/>
+      <arc id="2288627640400" source="p_7" target="df3bed67-1387-41e1-8ecd-62828ce8cec5"/>
+      <arc id="2288627722848" source="tauSplit_11" target="p_24"/>
+      <arc id="2288627577952" source="p_33" target="d4b81155-522a-45b3-bf55-e19f05c90504"/>
+      <arc id="2288627750512" source="fb483615-210d-41b1-8e43-c37fe604bfc6" target="p_31"/>
+      <arc id="2288626844288" source="tauSplit_1" target="p_19"/>
+      <arc id="2288627722368" source="p_23" target="tauJoin_12"/>
+      <arc id="2288627542144" source="p_20" target="b35401ff-01ee-42c9-a0c3-9ca4aa61ef19"/>
+      <arc id="2288627723424" source="p_5" target="997b6894-8c0e-4842-8738-4d970194807d"/>
+      <arc id="2288627771040" source="a8406134-1be5-475a-9107-d2cb97345516" target="p_40"/>
+      <arc id="2288627639968" source="tauSplit_15" target="p_33"/>
+      <arc id="2288627749552" source="tauSplit_13" target="p_28"/>
+      <arc id="2288627280576" source="tauJoin_2" target="p_6"/>
+      <arc id="2288627639488" source="d4b81155-522a-45b3-bf55-e19f05c90504" target="p_37"/>
+      <arc id="2288627750608" source="p_31" target="36262535-c25e-4e39-8f41-1728664abdd5"/>
+      <arc id="2288627721936" source="tauJoin_12" target="p_5"/>
+      <arc id="2288627749072" source="p_27" target="tauJoin_14"/>
+      <arc id="2288627281632" source="p_7" target="tauSplit_3"/>
+      <arc id="2288627640544" source="df3bed67-1387-41e1-8ecd-62828ce8cec5" target="p_8"/>
+      <arc id="2288626847456" source="b35401ff-01ee-42c9-a0c3-9ca4aa61ef19" target="p_15"/>
+      <arc id="2288627722464" source="p_22" target="a7b9898a-12dc-4da9-b9cc-d696bfe7ebdd"/>
+      <arc id="2288627724000" source="tauJoin_14" target="p_4"/>
+      <arc id="2288627770080" source="p_38" target="tauJoin_19"/>
+      <arc id="2288627750128" source="41d52375-ce3b-45b5-a34f-d678df15983d" target="p_30"/>
+      <arc id="2288627003648" source="p_19" target="11ae49ef-cea6-49e8-bf87-002a9debe3d1"/>
+      <arc id="2288627771136" source="tauSplit_3" target="p_13"/>
+      <arc id="2288627723040" source="p_25" target="tauJoin_12"/>
+      <arc id="2288627640112" source="p_13" target="02e55160-2261-4c58-a5df-cf17a626bd9b"/>
+      <arc id="2288627279664" source="p_8" target="tauJoin_2"/>
+      <arc id="2288627749168" source="p_26" target="e3fc5702-61b9-4b0f-9a75-114e1b7cc489"/>
+      <arc id="2288627769648" source="tauJoin_19" target="sink"/>
+      <arc id="2288627770176" source="p_37" target="4c0337c0-b349-4cd5-a08e-8d1b79a68a6d"/>
+      <arc id="2288627723616" source="997b6894-8c0e-4842-8738-4d970194807d" target="p_4"/>
+      <arc id="2288627752288" source="p_34" target="4dfb1f26-53ea-4672-ae79-43bb48e95f4b"/>
+      <arc id="2288627280240" source="tauJoin_4" target="p_8"/>
+      <arc id="2288627749744" source="p_29" target="tauJoin_14"/>
+      <arc id="2288627639680" source="p_12" target="tauJoin_4"/>
+      <arc id="2288627723136" source="p_24" target="24c83690-7099-4a98-9bc4-3d07732cad42"/>
+      <arc id="2288627770752" source="p_40" target="tauJoin_19"/>
+      <arc id="2288627278224" source="tauSplit_1" target="p_7"/>
+      <arc id="2288627750800" source="36262535-c25e-4e39-8f41-1728664abdd5" target="p_29"/>
+      <arc id="2288627722656" source="a7b9898a-12dc-4da9-b9cc-d696bfe7ebdd" target="p_23"/>
+      <arc id="2288627577760" source="p_35" target="d4b81155-522a-45b3-bf55-e19f05c90504"/>
+      <arc id="2288627750320" source="p_30" target="fb483615-210d-41b1-8e43-c37fe604bfc6"/>
+      <arc id="2288627278272" source="252588b8-a529-4edf-ad73-5f67c91cbd69" target="p_6"/>
+      <arc id="2288627003840" source="11ae49ef-cea6-49e8-bf87-002a9debe3d1" target="p_20"/>
+      <arc id="2288627722176" source="tauSplit_11" target="p_22"/>
+      <arc id="2288627280336" source="source" target="252588b8-a529-4edf-ad73-5f67c91cbd69"/>
+      <arc id="2288627724240" source="tauSplit_13" target="p_26"/>
+      <arc id="2288627770848" source="p_39" target="a8406134-1be5-475a-9107-d2cb97345516"/>
+      <arc id="2288627640304" source="02e55160-2261-4c58-a5df-cf17a626bd9b" target="p_12"/>
+      <arc id="2288627749360" source="e3fc5702-61b9-4b0f-9a75-114e1b7cc489" target="p_27"/>
+      <arc id="2288627750896" source="p_4" target="tauSplit_15"/>
+      <arc id="2288627088880" source="d4b81155-522a-45b3-bf55-e19f05c90504" target="p_39"/>
+      <arc id="2288626845680" source="p_18" target="b35401ff-01ee-42c9-a0c3-9ca4aa61ef19"/>
+    </page>
+  </net>
+</pnml>
