@@ -1,1 +1,3 @@
-# LSTM_Process_Model_Structure
+# Can recurrent neural networks learn process model structure?
+
+Under construction.
