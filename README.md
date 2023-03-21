@@ -12,3 +12,5 @@ The folder "Process Tree Generation" contains the notebooks used to generate and
 The folder notebooks contains notebooks with code to do following tasks: playing out the process model and splitting the training and test logs, doing the hyperparameter search, training the LSTM and generating the simulated log and for evaluating (using our proposed metrics). Anther notebok contains the code used in Appendix B, the experiment which uses the inductive miner. 
 
 The other folders contain the results for both hyper parameter searches.
+
+You can find the csv's of all training, test and simulated logs here: https://data.mendeley.com/datasets/g4mybythn3/1
