@@ -13,4 +13,4 @@ The folder notebooks contains notebooks with code to do following tasks: playing
 
 The other folders contain the results for both hyper parameter searches.
 
-You can find the csv's of all training, test and simulated logs here: https://data.mendeley.com/datasets/g4mybythn3/1
+You can find the csv's of all training, test and simulated (simple) event logs here: https://data.mendeley.com/datasets/g4mybythn3/1
