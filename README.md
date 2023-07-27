@@ -2,7 +2,7 @@
 
 This repository contains all process models, code and resutls concerning the paper "Can recurrent neural networks learn process model structure?"
 
-If using any of the code/data presented here please cite:
+If you use any of the code/data presented here please cite:
 Peeperkorn, J., vanden Broucke, S. & De Weerdt, J. Can recurrent neural networks learn process model structure?. J Intell Inf Syst (2022). https://doi.org/10.1007/s10844-022-00765-x
 
 The folder "Designed Models" contains the artificially generated models used (set 1).
